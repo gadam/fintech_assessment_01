@@ -7,7 +7,7 @@
 Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. 
 
 Kyle came up with the idea for the company after experiencing firsthand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that uses:
->"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, Mario - 2016, [](https://ideamensch.com/kyle-kamrooz/)) 
+>"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, Mario - 2016, [https://ideamensch.com/kyle-kamrooz/](https://ideamensch.com/kyle-kamrooz/)) 
 
 * How is the company funded? How much funding have they received?
 
