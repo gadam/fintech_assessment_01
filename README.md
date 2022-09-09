@@ -6,16 +6,19 @@
 
 Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. 
 
-Kyle came up with the idea for the company after experiencing firsthand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that uses:
->"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, Mario - 2016, [https://ideamensch.com/kyle-kamrooz/](https://ideamensch.com/kyle-kamrooz/)) 
+Kyle came up with the idea for the company after experiencing firsthand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that:
+>"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, 2016)
 
-* How is the company funded? How much funding have they received?
+According to Tracxn (2022), CloudVirga has gone through three rounds of funding followed by an acquisition raising a total of $101M.  The company benefited from series A round in 2016 through to series C round in 2018 finally being acquired by Stewart in May 2021 for an undisclosed amount. 
+
+Its investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+CloudVirga offers a SaaS platform that faciliates an efficient homeloan application process through an automated workflow and intelligent use of data.
 
+Its customers are mainly homeloan lenders and originators
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
