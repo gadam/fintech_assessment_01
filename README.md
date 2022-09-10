@@ -16,11 +16,13 @@ Its investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribe
 
 ## Business Activities:
 
-CloudVirga offers a SaaS platform that faciliates an efficient homeloan application process through an automated workflow and intelligent use of data.
+CloudVirga offers a Software as a Service (SaaS) platform that faciliates an efficient homeloan application process through an automated workflow and smart use of data.  It simplifies and automates the process from initial application through to approval (Crunchbase, n.d).
 
-Its customers are mainly homeloan lenders and originators
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Its customers are mainly homeloan lenders and originators.  In 2022, the US e-Mortgage market was estimated at 8.7B USD and projected to grow to 46.2B USD by 2032 (Fact.MR, 2022).
+
+CloudVirga's main competitive advantage appears to be the level of automation that has been incorporated into the platform enabling users to:
+>"create underwirter-ready loan files in 10 minutes and reducing touch time between loan officer and consumer by 70%" (cloudvirga, n.d.)
+The platform has an extensive list of companies that have been integrated in the SaaS depending on their role in the mortgage value chain (cloudvirga, n.d.)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
