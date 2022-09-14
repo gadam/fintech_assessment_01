@@ -92,7 +92,7 @@ Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Banglad
 Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
 
 ## References
-[Balasubramanian, R., Libarikian, A., & McElhaney, D. (2021, March 12). Insurance 2030--The impact of AI on the future of insurance. McKinsey. Retrieved September 14, 2022, from] (https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
+Balasubramanian, R., Libarikian, A., & McElhaney, D. (2021, March 12). Insurance 2030--The impact of AI on the future of insurance. McKinsey. Retrieved September 14, 2022, from https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance
 
 Bhattacharya, K., Kapoor, A., & Madan, A. (2021, December 7). Five trends reshaping the US home mortgage industry. McKinsey. Retrieved September 13, 2022, from https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/five-trends-reshaping-the-us-home-mortgage-industry
 
