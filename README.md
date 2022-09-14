@@ -11,18 +11,18 @@ Kyle came up with the idea for the company after experiencing first-hand the hur
 
 According to Tracxn (2022), CloudVirga has gone through three rounds of funding followed by an acquisition raising a total of $101M.  The company benefited from a series A round in 2016 through to series C round in 2018 and finally being acquired by Stewart in May 2021 for an undisclosed amount. 
 
-CloudVirga's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
+CloudVirga's investors included Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
 
 
 ## Business Activities:
 
 CloudVirga offers a Software as a Service (SaaS) product that provides a digital mortgage platform to the home lending and financing industry.  The platform faciliates an efficient homeloan application process through an automated workflow and smart use of data.  It simplifies and automates the process from initial application through to approval (Crunchbase, n.d).
 
-Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome Solutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique. 
+Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome Solutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique (CloudCirga, n.d.). 
 
-Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Within this market, the e-Mortgage segment is estimated at 8.7B USD in 2022 and predicted to surpass 46.2B USD by the end of 2032 (Fact.MR, 2022).  Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).  
+Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the 3 years since its report was published. Within this market, the e-Mortgage segment is estimated at 8.7B USD in 2022 and predicted to surpass 46.2B USD by the end of 2032 (Fact.MR, 2022).  Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).  
 
-Loan origination is a lengthy process in the US, overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
+Loan origination is a lengthy process in the US, overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance, and includes a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
 >"...create underwirter-ready loan files in 10 minutes and reducing touch time between loan officer and consumer by 70%" (cloudvirga, n.d.)
 
 >"The platform has an extensive list of companies that have been integrated within the SaaS platform depending on their role in the mortgage value chain (cloudvirga, n.d.)"
@@ -64,7 +64,7 @@ The home lending and mortgage segment of the industry (in the US) is currently u
   4. Innovative bundling of home-buying services, including mortgages are enabled 
   5. There are increasing signs that nonqualified mortgage lenders are re-entering the market
 
-Bhattacharya et al, (2021) further report that customer expectations for digital engagement have increased significantly during the COVID-19 pandemic. Satisfaction drops by about 15 percent if a loan decision takes more than 10 days.  They also found that despite major bank and non-bank lenders investing in uplifting their systems and integrating third-party technologies across various parts of the value chain, many mortgage originators either persist with labour-intensive fulfilement and servicing or fail to update legacy processes resulting in higher origination costs.
+Bhattacharya et al, (2021) further report that customer expectations for digital engagement have increased significantly during the COVID-19 pandemic. Satisfaction drops by about 15 percent if a loan decision takes more than 10 days.  They also found that despite major bank and non-bank lenders investing in uplifting their systems and integrating third-party technologies across various parts of the value chain, many mortgage originators either persist with labour-intensive fulfillment and servicing or fail to update legacy processes resulting in higher origination costs.
 
 Tier 2 players like CloudVirga and its competitors, including Gladly, ErisX and Recurly (Crunchbase, n.d.) and SimpleNexus LLC, Revel Systems Inc, Roostify Inc, Promontory MortgagePath LLC, OpenClose Inc and Mortgage Cadence LLC (Zoominfo, n.d.) are well placed to respond to respond to those expectations with their e-Mortgage platforms.
 
@@ -76,14 +76,14 @@ Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders
 
 The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company's claim to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.) indicates that its marketshare is growing.
 
-According to Zoominfo, CloudVirga's nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
+According to Zoominfo (n.d.), CloudVirga's nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
 
 
 ## Recommendations
 
-CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.
+CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing any manual underwriting step still included in the process would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.
 
-A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes (Balasubramanian, et al, 2021).  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and undewriters to be more productive.  This would be further enhanced with NLP deployed to interrogate the underwriting email inboxes where much of the underwriter's time is spent managing unstructured information sent by intermediaries, third-parties and customers (Insurance Times, 2021)
+A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes (Balasubramanian, et al, 2021).  NLP would add the ability to more accurately identify potentially problematic applications that would require manual intervention and allow the remaining applications to be processed automatically therefore allowing originators and undewriters to be more productive.  This would be further enhanced with NLP deployed to interrogate the underwriting email inboxes where much of the underwriter's time is spent managing unstructured information sent by intermediaries, third-parties and customers (Insurance Times, 2021)
 
 Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may also consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even more easily incorporate NLP if it hasn't already.
 
