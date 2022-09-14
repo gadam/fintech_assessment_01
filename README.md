@@ -81,7 +81,7 @@ According to Zoominfo (n.d.), CloudVirga's nearest competitor in terms of revenu
 
 ## Recommendations
 
-CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing any manual underwriting step still included in the process would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.  To make the automated underwriting capability even more valuable would include incorporating machine learning capability paired with appropriate learning algorithm and data sets to increase the decisioning steps and decrease cycle times (Insider Intelligence, 2022).
+CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing any manual underwriting step still included in the process would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.  To make the automated underwriting capability even more valuable would include incorporating machine learning capability paired with appropriate learning algorithm and data sets to increase the decisioning outcome accuracy and decrease cycle times (Insider Intelligence, 2022).
 
 A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes (Balasubramanian, et al, 2021).  NLP would add the ability to more accurately identify potentially problematic applications that would require manual intervention and allow the remaining applications to be processed automatically therefore allowing originators and undewriters to be more productive.  This would be further enhanced with NLP deployed to interrogate the underwriting email inboxes where much of the underwriter's time is spent managing unstructured information sent by intermediaries, third-parties and customers (Insurance Times, 2021)
 
@@ -92,7 +92,7 @@ Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Banglad
 Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
 
 ## References
-Balasubramanian, R., Libarikian, A., & McElhaney, D. (2021, March 12). Insurance 2030--The impact of AI on the future of insurance. McKinsey. Retrieved September 14, 2022, from https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance
+[Balasubramanian, R., Libarikian, A., & McElhaney, D. (2021, March 12). Insurance 2030--The impact of AI on the future of insurance. McKinsey. Retrieved September 14, 2022, from] (https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
 
 Bhattacharya, K., Kapoor, A., & Madan, A. (2021, December 7). Five trends reshaping the US home mortgage industry. McKinsey. Retrieved September 13, 2022, from https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/five-trends-reshaping-the-us-home-mortgage-industry
 
