@@ -72,18 +72,16 @@ Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders
 ## Results
 
 
-The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.)
-
+The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.) indicates that its marketshare is growing.
 
 According to Zoominfo, CloudVirga nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may wish to consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even incorporate natural language processing if it hasn't already.
 
-* What technologies would this additional product or service utilize?
+Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Bangladesh - the bank which started the microfinancing movement, has disbursed more than 2.26B USD in microloans.  Yee also found that although interest rates were higher than traditional loans, repayment rates were high with 99% of borrowers paying off their loans within 36 weeks.
 
-* Why are these technologies appropriate for your solution?
+Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
