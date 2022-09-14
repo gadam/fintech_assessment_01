@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. The company operates mainly in the US market within the e-mortgage space by providing a point of sale platform to lenders and orginators that significantly reduces the time taken by the loan origination process (Schulzke, 2016).
+Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. The company operates mainly in the US market within the e-mortgage space by providing a point of sale platform to lenders and orginators that significantly reduces the time taken by the loan origination process (Schulzke, 2016).  CloudVirga measures its success mainly in the value of loans processed for its customers, the time saved in the origination process and the "reduced touch time between loan office and consumer" (CloudVirga, n.d.)
 
 Kyle came up with the idea for the company after experiencing first-hand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that:
 >"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, 2016)
@@ -20,7 +20,7 @@ CloudVirga offers a Software as a Service (SaaS) product that provides a digital
 
 Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome Solutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique. 
 
-Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).
+Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Within this market, the e-Mortgage segment is estimated at 8.7B USD in 2022 and predicted to surpass 46.2B USD by the end of 2032 (Fact.MR, 2022).  Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).  
 
 Loan origination is a lengthy process in the US, overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
 >"...create underwirter-ready loan files in 10 minutes and reducing touch time between loan officer and consumer by 70%" (cloudvirga, n.d.)
@@ -57,31 +57,33 @@ Although information on how CloudVirga is implementing the above technologies is
 ## Landscape:
 
 
-The home lending and mortgage segment of the industry (in the US) is currently undergoing a makeover particularly relevant to tier-2 players (Bhattacharya et al., 2021):
+The home lending and mortgage segment of the industry (in the US) is currently undergoing a makeover. Bhattacharya et al, (2021) found 5 trends that are particularly relevant to tier-2 players:
   1. Third-party technology and data providers are playing a greater role in streamlining more parts of the process
   2. Non-bank lenders are growing market share
   3. More efficient digital platforms continue to be introduced
   4. Innovative bundling of home-buying services, including mortgages are enabled 
   5. There are increasing signs that nonqualified mortgage lenders are re-entering the market
 
-CloudVirga's competitors include Gladly, ErisX and Recurly (Crunchbase, n.d.) and SimpleNexus LLC, Revel Systems Inc, Roostify Inc, Promontory MortgagePath LLC, OpenClose Inc and Mortgage Cadence LLC (Zoominfo, n.d.).
+Bhattacharya et al, (2021) further report that customer expectations for digital engagement have increased significantly during the COVID-19 pandemic. Satisfaction drops by about 15 percent if a loan decision takes more than 10 days.  They also found that despite major bank and non-bank lenders investing in uplifting their systems and integrating third-party technologies across various parts of the value chain, many mortgage originators either persist with labour-intensive fulfilement and servicing or fail to update legacy processes resulting in higher origination costs.
 
-Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders that they investigated, an online service was a key feature of the product offerings confirming that most players are converging towards a digital strategy.  However, as outlined in an interview by Digital Mortgage with Dan Sogorka and Tim Von Kaenal from CloudVirga (Smith, 2019), the end to end process is still fragmented and the fintech entrepreneurs are implementing point solutions at different parts of the value chain.  A unified end to end solution is not yet available in the market.
+Tier 2 players like CloudVirga and its competitors, including Gladly, ErisX and Recurly (Crunchbase, n.d.) and SimpleNexus LLC, Revel Systems Inc, Roostify Inc, Promontory MortgagePath LLC, OpenClose Inc and Mortgage Cadence LLC (Zoominfo, n.d.) are well placed to respond to respond to those expectations with their e-Mortgage platforms.
+
+Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders that they investigated, an online service was a key feature of the product offerings confirming that most players are converging towards a digital strategy.  However, as outlined in an interview by Digital Mortgage with Dan Sogorka and Tim Von Kaenal from CloudVirga (Smith, 2019), the end-to-end process is still fragmented and the fintech entrepreneurs are implementing point solutions at different parts of the value chain.  A unified end-to-end solution is not yet available in the market.
 
 
 ## Results
 
 
-The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.) indicates that its marketshare is growing.
+The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company's claim to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.) indicates that its marketshare is growing.
 
-According to Zoominfo, CloudVirga nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
+According to Zoominfo, CloudVirga's nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
 
 
 ## Recommendations
 
-CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application.
+CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.
 
-A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes.  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and underiters to be more productive.
+A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes (Balasubramanian, et al, 2021).  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and undewriters to be more productive.  This would be further enhanced with NLP deployed to interrogate the underwriting email inboxes where much of the underwriter's time is spent managing unstructured information sent by intermediaries, third-parties and customers (Insurance Times, 2021)
 
 Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may also consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even more easily incorporate NLP if it hasn't already.
 
@@ -90,6 +92,8 @@ Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Banglad
 Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
 
 ## References
+Balasubramanian, R., Libarikian, A., & McElhaney, D. (2021, March 12). Insurance 2030--The impact of AI on the future of insurance. McKinsey. Retrieved September 14, 2022, from https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance
+
 Bhattacharya, K., Kapoor, A., & Madan, A. (2021, December 7). Five trends reshaping the US home mortgage industry. McKinsey. Retrieved September 13, 2022, from https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/five-trends-reshaping-the-us-home-mortgage-industry
 
 Brock, T. (2022, June 6). Microlending Definition. Investopedia. Retrieved September 14, 2022, from https://www.investopedia.com/articles/personal-finance/040715/what-microlending-and-how-does-it-work.asp
@@ -105,6 +109,8 @@ Crunchbase. (n.d.). Cloudvirga. Crunchbase. Retrieved September 9, 2022, from ht
 Fact.MR. (2022, June). e-Mortgage Market Size, Share & Growth Trends 2032. Fact.MR. Retrieved September 10, 2022, from https://www.factmr.com/report/e-mortgage-market
 
 Kopp, C. M. (2022, March 11). Origination Definition. Investopedia. Retrieved September 11, 2022, from https://www.investopedia.com/terms/o/origination.asp
+
+Insurance Times. (2021, November 8). Using natural language processing to boost underwriters' productivity – Re:infer. Insurance Times. Retrieved September 14, 2022, from https://www.insurancetimes.co.uk/expert-views/using-natural-language-processing-to-boost-underwriters-productivity-reinfer/1439322.article
 
 Schulzke, M. (2016, April 5). Kyle Kamrooz - COO & Co-Founder of cloudvirga. IdeaMensch. Retrieved September 7, 2022, from https://ideamensch.com/kyle-kamrooz/
 
