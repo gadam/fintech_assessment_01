@@ -81,7 +81,7 @@ According to Zoominfo (n.d.), CloudVirga's nearest competitor in terms of revenu
 
 ## Recommendations
 
-CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing any manual underwriting step still included in the process would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.
+CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing any manual underwriting step still included in the process would further compress the turnaround time for a loan application and in doing so, further meet the rising expectations of today's digital-centric consumer.  To make the automated underwriting capability even more valuable would include incorporating machine learning capability paired with appropriate learning algorithm and data sets to increase the decisioning steps and decrease cycle times (Insider Intelligence, 2022).
 
 A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes (Balasubramanian, et al, 2021).  NLP would add the ability to more accurately identify potentially problematic applications that would require manual intervention and allow the remaining applications to be processed automatically therefore allowing originators and undewriters to be more productive.  This would be further enhanced with NLP deployed to interrogate the underwriting email inboxes where much of the underwriter's time is spent managing unstructured information sent by intermediaries, third-parties and customers (Insurance Times, 2021)
 
@@ -109,6 +109,8 @@ Crunchbase. (n.d.). Cloudvirga. Crunchbase. Retrieved September 9, 2022, from ht
 Fact.MR. (2022, June). e-Mortgage Market Size, Share & Growth Trends 2032. Fact.MR. Retrieved September 10, 2022, from https://www.factmr.com/report/e-mortgage-market
 
 Kopp, C. M. (2022, March 11). Origination Definition. Investopedia. Retrieved September 11, 2022, from https://www.investopedia.com/terms/o/origination.asp
+
+Insider Intelligence. (2022, April 15). Automated Mortgage Underwriting Systems for Lenders Explained. Insider Intelligence. Retrieved September 14, 2022, from https://www.insiderintelligence.com/insights/automated-underwriting-system-mortgage/
 
 Insurance Times. (2021, November 8). Using natural language processing to boost underwriters' productivity – Re:infer. Insurance Times. Retrieved September 14, 2022, from https://www.insurancetimes.co.uk/expert-views/using-natural-language-processing-to-boost-underwriters-productivity-reinfer/1439322.article
 
