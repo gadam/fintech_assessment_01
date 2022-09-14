@@ -4,23 +4,25 @@
 
 ## Overview and Origin
 
-Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. The company operates mainly in the US market within the e-mortgage space.
+Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. The company operates mainly in the US market within the e-mortgage space by providing a point of sale platform to lenders and orginators that significantly reduces the time taken by the loan origination process (Schulzke, 2016).
 
 Kyle came up with the idea for the company after experiencing first-hand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that:
 >"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, 2016)
 
-According to Tracxn (2022), CloudVirga has gone through three rounds of funding followed by an acquisition raising a total of $101M.  The company benefited from series A round in 2016 through to series C round in 2018 finally being acquired by Stewart in May 2021 for an undisclosed amount. 
+According to Tracxn (2022), CloudVirga has gone through three rounds of funding followed by an acquisition raising a total of $101M.  The company benefited from a series A round in 2016 through to series C round in 2018 and finally being acquired by Stewart in May 2021 for an undisclosed amount. 
 
-CLoudVirga's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
+CloudVirga's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
 
 
 ## Business Activities:
 
-CloudVirga offers a Software as a Service (SaaS) product that provides a digital mortgate platform to the home lending and financing industry.  The platform faciliates an efficient homeloan application process through an automated workflow and smart use of data.  It simplifies and automates the process from initial application through to approval (Crunchbase, n.d).
+CloudVirga offers a Software as a Service (SaaS) product that provides a digital mortgage platform to the home lending and financing industry.  The platform faciliates an efficient homeloan application process through an automated workflow and smart use of data.  It simplifies and automates the process from initial application through to approval (Crunchbase, n.d).
 
-Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome SOlutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique. Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).
+Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome Solutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique. 
 
-In the US, loan origination is a lengthy process overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
+Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).
+
+Loan origination is a lengthy process in the US, overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
 >"...create underwirter-ready loan files in 10 minutes and reducing touch time between loan officer and consumer by 70%" (cloudvirga, n.d.)
 
 >"The platform has an extensive list of companies that have been integrated within the SaaS platform depending on their role in the mortgage value chain (cloudvirga, n.d.)"
@@ -77,8 +79,11 @@ According to Zoominfo, CloudVirga nearest competitor in terms of revenue and emp
 
 ## Recommendations
 
+CloudVirga may well consider uplifting its platform with automated underwriting thus taking the step producing underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application.
 
-Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may wish to consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even incorporate natural language processing if it hasn't already.
+A further step in the automation journey would be to add natual language processing (NLP) within the application and underwriting steps.  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and underiters to be more productive.
+
+Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may also consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even more easily incorporate NLP if it hasn't already.
 
 Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Bangladesh - the bank which started the microfinancing movement, has disbursed more than 2.26B USD in microloans.  Yee also found that although interest rates were higher than traditional loans, repayment rates were high with 99% of borrowers paying off their loans within 36 weeks.
 
