@@ -79,13 +79,13 @@ According to Zoominfo, CloudVirga nearest competitor in terms of revenue and emp
 
 ## Recommendations
 
-CloudVirga may well consider uplifting its platform with automated underwriting thus taking the step producing underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application.
+CloudVirga may well consider uplifting its platform with automated underwriting thus reserving the step that produces underwriter-ready files only for exceptions.  Removing the manual underwriting step would further compress the turnaround time for a loan application.
 
-A further step in the automation journey would be to add natual language processing (NLP) within the application and underwriting steps.  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and underiters to be more productive.
+A further gain in the automation journey would be to add natual language processing (NLP) within the application and underwriting sub-processes.  NLP would add the ability to more accurately identify potentially problematic applications that would require manual reviews and allow the remaining applications to be processed automatically therefore allowing originators and underiters to be more productive.
 
 Given the fragmentation that still exists in the end-to-end mortgage origination process, CloudVirga may also consider diversifying from its home-lending segment and adapt its platform to service the microlending market.  Demand for microloans has increased in the US, particularly as a result of the COVID-19 pandemic (Brock, 2022).  The underwriting requirements of microlending are unlikely to be as onerous as those for mortgages and would be relatively simpler for CloudVirga to automate and perhaps even more easily incorporate NLP if it hasn't already.
 
-Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Bangladesh - the bank which started the microfinancing movement, has disbursed more than 2.26B USD in microloans.  Yee also found that although interest rates were higher than traditional loans, repayment rates were high with 99% of borrowers paying off their loans within 36 weeks.
+Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Bangladesh - the bank which started the microfinancing movement, has disbursed more than 2.26B USD in microloans.  Yee also found that although interest rates were higher than traditional loans, repayment rates were also high with 99% of borrowers paying off their loans within 36 weeks.
 
 Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
 
