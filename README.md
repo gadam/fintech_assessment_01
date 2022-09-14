@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. 
+Cloudvirga was founded in 2015 by Bill Dallas and Kyle Kamrooz and are based in Irvine California. The company operates mainly in the US market within the e-mortgage space.
 
 Kyle came up with the idea for the company after experiencing first-hand the hurdles associated with the homelending process.  The process, despite the technologies available at the time, remained mainly manual and costly. So Kyle and his cofounder created a mortgage platform that:
 >"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, 2016)
@@ -12,8 +12,6 @@ Kyle came up with the idea for the company after experiencing first-hand the hur
 According to Tracxn (2022), CloudVirga has gone through three rounds of funding followed by an acquisition raising a total of $101M.  The company benefited from series A round in 2016 through to series C round in 2018 finally being acquired by Stewart in May 2021 for an undisclosed amount. 
 
 CLoudVirga's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
-
-The company operates mainly in the US market within the e-mortgage space.
 
 
 ## Business Activities:
@@ -85,3 +83,36 @@ Given the fragmentation that still exists in the end-to-end mortgage origination
 Yee (2022) reported that Grameen America, a subidiary of Grameen Bank in Bangladesh - the bank which started the microfinancing movement, has disbursed more than 2.26B USD in microloans.  Yee also found that although interest rates were higher than traditional loans, repayment rates were high with 99% of borrowers paying off their loans within 36 weeks.
 
 Diversifying and adapting the platform to support microlending would be a capability that CloudVirga could make available to investors active in that segment as well as lower the barrier to entry for traditional lenders in order for them to also diversify their strategy thus making CLoudVirga a more valuable partner for their future expansion plans.
+
+## References
+Bhattacharya, K., Kapoor, A., & Madan, A. (2021, December 7). Five trends reshaping the US home mortgage industry. McKinsey. Retrieved September 13, 2022, from https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/five-trends-reshaping-the-us-home-mortgage-industry
+
+Brock, T. (2022, June 6). Microlending Definition. Investopedia. Retrieved September 14, 2022, from https://www.investopedia.com/articles/personal-finance/040715/what-microlending-and-how-does-it-work.asp
+
+CB Insights. (2021, December 8). Market intelligence. Cloudvirga - Headquarters Locations, Products, Competitors, Financials, Employees. Retrieved September 10, 2022, from https://www.cbinsights.com/company/cloudvirga
+
+CloudVirga. (n.d.). Cloudvirga - Intelligent Digital Mortgage Platform. Retrieved September 9, 2022, from https://www.cloudvirga.com/#
+
+CloudVirga. (n.d.). Cloudvirga Team - Mortgage is in Our DNA. Cloudvirga. Retrieved September 14, 2022, from https://www.cloudvirga.com/about-cloudvirga/
+
+Crunchbase. (n.d.). Cloudvirga. Crunchbase. Retrieved September 9, 2022, from https://www.crunchbase.com/organization/cloudvirga
+
+Fact.MR. (2022, June). e-Mortgage Market Size, Share & Growth Trends 2032. Fact.MR. Retrieved September 10, 2022, from https://www.factmr.com/report/e-mortgage-market
+
+Kopp, C. M. (2022, March 11). Origination Definition. Investopedia. Retrieved September 11, 2022, from https://www.investopedia.com/terms/o/origination.asp
+
+Schulzke, M. (2016, April 5). Kyle Kamrooz - COO & Co-Founder of cloudvirga. IdeaMensch. Retrieved September 7, 2022, from https://ideamensch.com/kyle-kamrooz/
+
+Singh, R., Madan, A., Kapoor, A., Cope, R., Gill, C., Liu, J., & Pakhawala, M. (2020, December 15). Deploying advanced analytics in mortgage originations. McKinsey. Retrieved September 13, 2022, from https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/deploying-advanced-analytics-in-mortgage-originations
+
+slintel. (2022, July 18). Cloudvirga Company Insights, Tech Stack, and Competitors. Slintel. Retrieved September 11, 2022, from https://www.slintel.com/company/cloudvirga/5ba5ee2e7c86660ac127f143
+
+Smith, J. (2019, November 6). Fixing the Mortgage Loan Origination Process Flow. Cloudvirga. Retrieved September 13, 2022, from https://www.cloudvirga.com/blog/fixing-mortgage-loan-origination-process-flow/
+
+Traxcn. (2022, September 7). Cloudvirga. Tracxn. Retrieved September 9, 2022, from https://tracxn.com/d/companies/cloudvirga.com
+Tretina, K., & Flores, F. (2022, September 11). Best Mortgage Lenders of September 2022. Investopedia. Retrieved September 13, 2022, from https://www.investopedia.com/best-mortgage-lenders-5076852
+
+Yee, A. (2022, March 11). Measuring the Difference That Microloans Can Make. Bloomberg.com. Retrieved September 14, 2022, from https://www.bloomberg.com/news/articles/2022-03-11/measuring-the-difference-that-microloans-can-make
+
+Zoominfo. (n.d.). Cloudvirga - Overview, News & Competitors. ZoomInfo. Retrieved September 14, 2022, from https://www.zoominfo.com/c/cloudvirga-inc/394395686
+
