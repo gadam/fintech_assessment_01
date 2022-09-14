@@ -13,17 +13,19 @@ According to Tracxn (2022), CloudVirga has gone through three rounds of funding 
 
 CLoudVirga's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).
 
+The company operates mainly in the US market within the e-mortgage space.
+
 
 ## Business Activities:
 
 CloudVirga offers a Software as a Service (SaaS) product that provides a digital mortgate platform to the home lending and financing industry.  The platform faciliates an efficient homeloan application process through an automated workflow and smart use of data.  It simplifies and automates the process from initial application through to approval (Crunchbase, n.d).
 
-Its customers are mainly homeloan lenders and mortgage originators.  Bhattacharya et al (2021) reprt that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).
+Its customers are mainly homeloan lenders and mortgage originators. Amongst its customer-base, CloudVirga counts Supreme Lending, Finance of America , Fairway, SunWest, Envoy Mortgage, JMAC Lending, Citizens Bank, Summit Funding, TruHome SOlutions, Platinum Home Mortgage, Preferred Rate, and Mortgage Boutique. Bhattacharya et al (2021) report that the US mortgage industry is expected to originate over 2.5T USD for each of the next 3 years. Despite the projected size, the segment is concentrated with tier-1 players accounting for around one-third market share as at the end of 2021 leaving space for tier-2 players to compete on price and tailored offerrings (Fact.MR., 2022).
 
 In the US, loan origination is a lengthy process overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with a number of handoffs to various participants along the way (Kopp, 2022).  CloudVirga's main competitive advantage appears to be the level of automation that it has incorporated into the platform significantly reducing the time taken end-to-end.  A key outcome for CloudVirga's clients include:
 >"...create underwirter-ready loan files in 10 minutes and reducing touch time between loan officer and consumer by 70%" (cloudvirga, n.d.)
 
->"The platform has an extensive list of companies that have been integrated in the SaaS depending on their role in the mortgage value chain (cloudvirga, n.d.)"
+>"The platform has an extensive list of companies that have been integrated within the SaaS platform depending on their role in the mortgage value chain (cloudvirga, n.d.)"
 
 The technologies used by CloudVirga include (slintel, 2022):
 |Category|Technology stack|
@@ -55,27 +57,25 @@ Although information on how CloudVirga is implementing the above technologies is
 ## Landscape:
 
 
-CloudVirga operates in the home lending and mortgage segment of the financial services industry.  This industry is currently undergoing a makeover particularly relevant to tier-2 players (Bhattacharya et al., 2021):
+The home lending and mortgage segment of the industry (in the US) is currently undergoing a makeover particularly relevant to tier-2 players (Bhattacharya et al., 2021):
   1. Third-party technology and data providers are playing a greater role in streamlining more parts of the process
-  2. Nonbank lenders are growing market share
-  3. Introduction of more efficient digital platforms
-  4. Innovative bundling of home-buying services, including mortgages 
-  5. Re-entry of nonqualified mortgage lenders in the market
+  2. Non-bank lenders are growing market share
+  3. More efficient digital platforms continue to be introduced
+  4. Innovative bundling of home-buying services, including mortgages are enabled 
+  5. There are increasing signs that nonqualified mortgage lenders are re-entering the market
 
-CloudVirga's competitors include Gladly, ErisX and Recurly (Crunchbase, n.d.)
+CloudVirga's competitors include Gladly, ErisX and Recurly (Crunchbase, n.d.) and SimpleNexus LLC, Revel Systems Inc, Roostify Inc, Promontory MortgagePath LLC, OpenClose Inc and Mortgage Cadence LLC (Zoominfo, n.d.).
 
 Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders that they investigated, an online service was a key feature of the product offerings confirming that most players are converging towards a digital strategy.  However, as outlined in an interview by Digital Mortgage with Dan Sogorka and Tim Von Kaenal from CloudVirga (Smith, 2019), the end to end process is still fragmented and the fintech entrepreneurs are implementing point solutions at different parts of the value chain.  A unified end to end solution is not yet available in the market.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-In the seven years since the company's inception, it has successfully 
+
+The three rounds of stage funding followed by an acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed $100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.)
 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+According to Zoominfo, CloudVirga nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
 
 
 ## Recommendations
