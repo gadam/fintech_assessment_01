@@ -9,7 +9,7 @@ Cloudvirga is an e-mortgage Software as a Service (SaaS) provider based in the U
 Kyle came up with the idea for the company after experiencing first-hand the hurdles associated with the homelending process.  The approach, despite the technologies available at the time, remained costly and largely manual with numerous hand-offs along the value chain. So Kyle and his cofounder created a mortgage platform that:
 >"leverages data and an intelligent workflow to drastically cut the time and costs associated with closing a loan. The proven system, which has already processed more than $3 billion in loans, is successfully transforming home lending by digitizing, automating and simplifying the process for consumers, lenders, and realtors." (Schulzke, 2016)
 
-According to Tracxn (2022), the company's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).  CloudVirga has successfully navigated  three rounds of funding from a "series A" round in 2016 through to a "series C" round in 2018, before finally being acquired by Stewart, a tile insurance company, in May 2021 for an undisclosed amount.  Tracxn (2022) also noted that CloudVirga may have raised a total of $101M.
+According to Tracxn (2022), the company's investors include Upfront Ventures, Riverwood Capital, Dallas Capital, Tribeca ESP and two others (Tracxn, 2022).  CloudVirga has successfully navigated  three rounds of funding from a "series A" round in 2016 through to a "series C" round in 2018, before finally being acquired by Stewart, a title insurance company, in May 2021 for an undisclosed amount.  Tracxn (2022) also noted that CloudVirga may have raised a total of $101M.
 
 
 ## Business Activities:
@@ -55,7 +55,7 @@ Although information on how CloudVirga is implementing the above technologies is
 ## Landscape:
 
 
-The home lending and mortgage segment of the industry in the US is currently undergoing a makeover. Bhattacharya et al, (2021) found 5 trends that are particularly relevant to tier-2 players:
+The home lending and mortgage segment of the industry in the US is currently undergoing a makeover. Bhattacharya _et al._ (2021) found 5 trends that are particularly relevant to tier-2 players:
   1. Third-party technology and data providers are playing a greater role in streamlining more parts of the process
   2. Non-bank lenders are growing market-share
   3. More efficient digital platforms continue to be introduced
@@ -72,7 +72,7 @@ Research by Investopedia (Tretina & Flores, 2022) suggests that of the 45 lender
 ## Results
 
 
-The three rounds of stage-funding followed by Stewart's acquistion in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed 100B USD in loans for 10 of the top 40 lenders in the country (CloudVirga, n.d.). Given that it was only writing 3B USD in 2016 (Schulzke, 2016) its current level of loans processed represent a 79% compound annual growth rate indicating that its market share is growing and therefore is creating value for its shareholders.
+The three rounds of stage-funding followed by the acquisition of the company by Stewart in the seven years since the start-up's inception point to a successful vision and value proposition by its founders. The company claims to have processed 100B USD in loans for 10 of the top 40 lenders in the country (CloudVirga, n.d.). Given that it was only writing 3B USD in 2016 (Schulzke, 2016) its current level of loans processed represent a 79% compound annual growth rate indicating that its market share is growing and therefore has created and continues to create value for both its investors and shareholders.
 
 According to Zoominfo (n.d.), CloudVirga's nearest competitor in terms of revenue and employee headcount is Mortgage Cadence, however no information could be found regarding where it ranked amongst all the players in that segment.
 
