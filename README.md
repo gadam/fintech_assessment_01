@@ -72,7 +72,7 @@ Research by Investopedia (Tretina & Flores, 2022) suggest that of the 45 lenders
 ## Results
 
 
-The three rounds of stage funding followed by the acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed 100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.). Given that it was only writing 7B USD in 2016 (Schulzke, 2016) this is a 55% compound annual grwoth rate indicating that its marketshare is growing and therefore is creating value for its shareholders.
+The three rounds of stage funding followed by the acquisition by Stewart in the seven years since the company's inception point to a successful vision and value proposition by its founders. The company claims to have processed 100B USD in loans for 10 of the top 40 lenders in the country (CloudVIrga, n.d.). Given that it was only writing 3B USD in 2016 (Schulzke, 2016) this is a 79% compound annual grwoth rate indicating that its marketshare is growing and therefore is creating value for its shareholders.
 
 According to Zoominfo (n.d.), CloudVirga's nearest competitor in terms of revenue and employee headcount is Mortgage Cadence however no information could be found regarding where it ranked amongst all the players in that segment.
 
